@@ -4,9 +4,7 @@
 
 Grupo:
 
-Alexandre Nascimeto RM:86499
-
-Ana Carolina Lakitini RM:83872
+Alexandre Nascimeto RM:86499     Ana Carolina Lakitini RM:83872
 
 Karoline Santato RM:83830
 
