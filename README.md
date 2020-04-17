@@ -14,6 +14,7 @@ O Portal de acessos Fiap é utilizado para criar um login, um id de acesso para 
 1. Primeiro, baixe o respositório "Prova" do github, depois abra o terminal e coloque os comandos:
 
   $cd PATH DA PASTA
+  
   $php -S localhost:80
 
 2. Então, vá até o link : http://localhost:80 
@@ -28,15 +29,15 @@ O Portal de acessos Fiap é utilizado para criar um login, um id de acesso para 
 
 Grupo:
 
-Alexandre Nascimeto RM:86499     
+*Alexandre Nascimeto RM:86499     
 
-Ana Carolina Lakitini RM:83872
+*Ana Carolina Lakitini RM:83872
 
-Karoline Santato RM:83830
+*Karoline Santato RM:83830
 
-Sara Rodrigues RM:83967
+*Sara Rodrigues RM:83967
 
-Victoria Maciel RM:82359
+*Victoria Maciel RM:82359
 
 
 
