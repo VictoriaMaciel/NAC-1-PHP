@@ -21,13 +21,7 @@ O Portal de acessos Fiap é utilizado para criar um login, um id de acesso para 
 
 3. Depois preencha as informações do formulário e aperte o botão criar acesso. Desta forma, o login é criado, gerando aleatoriamente um id e também é mostrado as informações cadastradas. 
 
-
-
-
-
-
-
-Grupo:
+*Grupo*
 
 *Alexandre Nascimeto RM:86499     
 
