@@ -4,12 +4,12 @@
 
 
 
-**O que o portal de acessos FIAP faz?**
+### **O que o portal de acessos FIAP faz?**
 
 O Portal de acessos Fiap é utilizado para criar um login, um id de acesso para o portal dos funcionarios da empresa. Para isso, é necessário informar algumas informações para assim, confirmar se existe o pré-cadastro já realizado pela equipe Fiap e permitir o acesso, criando o ID.  Esse id pode ser alterado depois do primeiro acesso. 
 
 
-**Como executar o projeto?**
+### **Como executar o projeto?**
 
 1. Primeiro, baixe o respositório "Prova" do github, depois abra o terminal e coloque os comandos:
 
@@ -21,17 +21,18 @@ O Portal de acessos Fiap é utilizado para criar um login, um id de acesso para 
 
 3. Depois preencha as informações do formulário e aperte o botão criar acesso. Desta forma, o login é criado, gerando aleatoriamente um id e também é mostrado as informações cadastradas. 
 
-*Grupo*
 
-*Alexandre Nascimeto RM:86499     
+#### **Grupo**
 
-*Ana Carolina Lakitini RM:83872
+Alexandre Nascimeto RM:86499     
 
-*Karoline Santato RM:83830
+Ana Carolina Lakitini RM:83872
 
-*Sara Rodrigues RM:83967
+Karoline Santato RM:83830
 
-*Victoria Maciel RM:82359
+Sara Rodrigues RM:83967
+
+Victoria Maciel RM:82359
 
 
 
