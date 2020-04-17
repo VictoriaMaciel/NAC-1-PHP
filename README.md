@@ -12,8 +12,8 @@ O Portal de acessos Fiap é utilizado para criar um login, um id de acesso para 
 **Como executar o projeto?**
 
 1. Primeiro, baixe o respositório "Prova" do github, depois abra o terminal e coloque os comandos:
-
 $cd PATH DA PASTA
+
 $php -S localhost:80
 
 2. Então, vá até o link : http://localhost:80 
